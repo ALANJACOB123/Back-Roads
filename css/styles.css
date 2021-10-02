@@ -661,3 +661,6 @@ Footer
   letter-spacing: var(--spacing);
   color: var(--clr-white);
 }
+.footer-span{
+  color: var(--clr-primary-5);
+}
